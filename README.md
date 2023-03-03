@@ -6,3 +6,8 @@
 Hobbies: Deejay, Soccer, Video Games
 
 Skills: REACT / JS / HTML / CSS / RUBY / RAILS / GIT / BOOTSTRAP / SQL
+
+<a href=mailto:jproano22@yahoo.com>![Yahoo!](https://img.shields.io/badge/jproano22@yahoo.com-c2ff72?style=for-the-badge&logo=Yahoo!&logoColor=black)</a>
+<a href="https://www.johnnyproano.com/">![Google Chrome](https://img.shields.io/badge/johnnyproano.com-c2ff72?style=for-the-badge&logo=GoogleChrome&logoColor=black)</a>
+<a href="https://www.linkedin.com/in/johnny-proano/">![LinkedIn](https://img.shields.io/badge/Johnny_Proano-c2ff72.svg?style=for-the-badge&logo=linkedin&logoColor=black)</a>
+
