@@ -5,7 +5,7 @@
 
 Hobbies: Deejay, Soccer, Video Games
 
-Skills: REACT / ANGULAR / TYPESCRIPT / JS / HTML / CSS / SWIFT / SWIFTUI / RUBY / RAILS / GIT / BOOTSTRAP / SQL
+Skills: REACT / ANGULAR / TYPESCRIPT / JS / HTML / CSS / SCSS / SWIFT / SWIFTUI / RUBY / RAILS / GIT / BOOTSTRAP / SQL
 
 <a href=mailto:jproano22@yahoo.com>![Yahoo!](https://img.shields.io/badge/jproano22@yahoo.com-c2ff72?style=for-the-badge&logo=Yahoo!&logoColor=black)</a>
 <a href="https://www.johnnyproano.com/">![Google Chrome](https://img.shields.io/badge/johnnyproano.com-c2ff72?style=for-the-badge&logo=GoogleChrome&logoColor=black)</a>
